@@ -5,7 +5,7 @@ GoogleMap web scraping sample
 ## Project source
 
 ```
-https://github.com/Niccodedev/Node-Puppeteer-googleMap-scrapping
+https://github.com/pioneeringdev/Node-Puppeteer-googleMap-scrapping
 ```
 
 ## Description
